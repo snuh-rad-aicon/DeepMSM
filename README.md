@@ -26,7 +26,7 @@ FA-DeepMSM (Few-shot Adapted Deep Multimodal Survival Model) combines self-super
 
 ## Model Framework
 
-![FA-DeepMSM overall framework](assets/figure1_framework.png)
+![FA-DeepMSM overall framework](figure1_framework.png)
 
 **Figure 1.** Self-supervised MRI feature learning and the multimodal survival prediction framework. Cropped from Figure 1 on page 3 of the published article; scientific content unchanged. Source: Hwang et al., *Scientific Reports* (2026), [doi:10.1038/s41598-025-34134-9](https://doi.org/10.1038/s41598-025-34134-9).
 
