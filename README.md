@@ -11,8 +11,6 @@ Minyoung Hwang, Junhyeok Lee, Sihyeon Kim, Minchul Kim, Seung Hong Choi, Sung So
 **Scientific Reports**. 2026;16:4037. Published January 14, 2026.  
 **DOI:** [10.1038/s41598-025-34134-9](https://doi.org/10.1038/s41598-025-34134-9)  
 **PMID:** [41535701](https://pubmed.ncbi.nlm.nih.gov/41535701/)  
-**PMCID:** [PMC12855786](https://pmc.ncbi.nlm.nih.gov/articles/PMC12855786/)
-
 **Corresponding authors:** Changhee Lee (Korea University) and Kyu Sung Choi (Seoul National University Hospital).
 
 ## Research Overview
